@@ -1,0 +1,44 @@
+<svg style="width: 1.5em" width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <circle cx="24" cy="24" r="23" fill="#e6e6e6" class="fill-neutral-content" />
+        <g
+            transform="translate(-1)"
+            stroke="#000"
+            class="stroke-none fill-neutral"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+        >
+            <path d="m25 3-2 2v7h4v-7z" style="" />
+            <path d="m25 14h-5l-2 2 2 2h10l2-2-2-2z" style="" />
+            <path d="m23 20v22l2 4 2-4v-22z" style="" />
+        </g>
+        <g fill="#666" class="fill-primary">
+            <circle transform="rotate(15)" cx="29.394" cy="-2.0286" r="1" style="" />
+            <circle cx="24" cy="5" r="1" style="" />
+            <circle transform="rotate(-15)" cx="16.971" cy="10.393" r="1" style="" />
+            <circle transform="rotate(-30)" cx="8.7853" cy="13.783" r="1" style="" />
+            <circle transform="rotate(-45)" cx=".0013322" cy="14.939" r="1" style="" />
+            <circle transform="rotate(-60)" cx="-8.7825" cy="13.782" r="1" style="" />
+            <circle transform="rotate(-75)" cx="-16.968" cy="10.391" r="1" style="" />
+            <circle transform="rotate(-90)" cx="-23.996" cy="4.9973" r="1" style="" />
+            <circle transform="rotate(255)" cx="-29.389" cy="-2.0319" r="1" style="" />
+            <circle transform="rotate(240)" cx="-32.779" cy="-10.217" r="1" style="" />
+            <circle transform="rotate(225)" cx="-33.935" cy="-19.001" r="1" style="" />
+            <circle transform="rotate(210)" cx="-32.778" cy="-27.785" r="1" style="" />
+            <circle transform="rotate(195)" cx="-29.387" cy="-35.97" r="1" style="" />
+            <circle transform="scale(-1)" cx="-23.994" cy="-42.999" r="1" style="" />
+            <circle transform="rotate(165)" cx="-16.964" cy="-48.392" r="1" style="" />
+            <circle transform="rotate(150)" cx="-8.7788" cy="-51.782" r="1" style="" />
+            <circle transform="rotate(135)" cx=".0051332" cy="-52.938" r="1" style="" />
+            <circle transform="rotate(120)" cx="8.789" cy="-51.781" r="1" style="" />
+            <circle transform="rotate(105)" cx="16.974" cy="-48.39" r="1" style="" />
+            <circle transform="rotate(90)" cx="24.003" cy="-42.996" r="1" style="" />
+            <circle transform="rotate(75)" cx="29.396" cy="-35.967" r="1" style="" />
+            <circle transform="rotate(60)" cx="32.786" cy="-27.782" r="1" style="" />
+            <circle transform="rotate(45)" cx="33.942" cy="-18.998" r="1" style="" />
+            <circle transform="rotate(30)" cx="32.785" cy="-10.214" r="1" style="" />
+            <circle transform="rotate(30)" cx="32.785" cy="-10.214" r="1" style="" />
+            <path d="m0 0 48 48" style="" />
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,41 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+    themes:
+        "light", "dark", "cupcake", "bumblebee", "emerald", "corporate", "synthwave", "retro", "cyberpunk", "valentine",
+        "halloween", "garden", "forest", "aqua", "lofi", "pastel", "fantasy", "wireframe", "black", "luxury", "dracula",
+        "cmyk", "autumn", "business", "acid", "lemonade", "night", "coffee", "winter", "dim", "nord", "sunset";
+}
+
+html,
+*,
+svg {
+    font-family: "Inter", "system-ui";
+}
+
+@supports (font-variation-settings: normal) {
+    html {
+        font-family: "InterVariable", "system-ui";
+    } /* If using the variable font */
+}
+
+h1 {
+    @apply text-2xl font-extrabold pb-2;
+}
+
+h2 {
+    @apply text-xl font-bold pb-2;
+}
+
+h3 {
+    @apply text-xl;
+    @apply font-bold;
+    @apply pb-2;
+}
+
+body {
+    @apply p-0 m-0;
+}
+
+kbd {
+    @apply kbd kbd-sm;
+}
